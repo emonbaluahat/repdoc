@@ -1,28 +1,209 @@
-Create a modern, professional, and fully responsive single-page landing website for RepDoc (https://repdoc.xyz) using only pure PHP, HTML, CSS, and JavaScript. The website represents a replica document generator platform. Design must look premium, dynamic, clean, and futuristic with dark green + black color theme. Add smooth animations, glassmorphism effects, hover transitions, animated sections, and professional typography. Use an animated logo area instead of emojis. Include a dark/light theme toggle button with dark mode as default.
+Remove All old files and commit first
 
-The landing page must support both Bangla and English language content together naturally. Add a professional hero section with title, subtitle, CTA buttons, animated background particles or gradients, and feature cards.
+Create a modern, premium, and fully mobile and desktop responsive multi-page website for RepDoc (https://repdoc.xyz) using pure PHP, HTML, CSS, and JavaScript only. The platform is a replica document generator service. The website language must be English only. Use a professional dark green + black color scheme with futuristic SaaS-style UI, glassmorphism, gradients, smooth animations, hover transitions, animated backgrounds, dynamic scroll reveals, and premium typography.
 
-Current available tools/features:
+Use matching illustrations from https://undraw.co on every page and section. Each illustration must match the content dynamically and visually with smooth animated entrance effects.
 
-1. NID Replica Generator → https://nid.repdoc.xyz/
-2. Birth Certificate Generator → https://birth.repdoc.xyz/
-3. Prottoyon Generator → https://prottoyon.repdoc.xyz/
+Do NOT add theme toggle or emoji logos. Instead, create a professional animated logo/brand section with modern motion effects.
 
-Add these as stylish clickable cards/buttons with icons and hover animations. Also include a “More Features Coming Soon” section because more tools will be added later.
+Website must be fully multi-page with:
 
-Sections to include:
+Home Page
 
-* Hero Section
-* Features/Tools Section
-* About RepDoc
-* Why Choose Us
-* Future Features Section
-* Contact Section
-* Footer
+Features Page
 
-Footer should contain:
-Email: [support@repdoc.xyz](mailto:support@repdoc.xyz)
-Domain: repdoc.xyz
-Copyright text
+About Page
 
-Add smooth scrolling, mobile responsiveness, sticky navbar, animated counters or highlights, FAQ section, and elegant CTA sections. The UI should feel like a modern SaaS landing page with professional branding and dynamic motion effects.
+FAQ Page
+
+Pricing Page
+
+Changelog Page
+
+Contact Page
+
+404 Error Page
+
+Add a scrolling marquee/top notification bar in Bangla containing a legal notice:
+“এই ওয়েবসাইট শুধুমাত্র ডেমো, ডিজাইন ও শিক্ষামূলক উদ্দেশ্যে তৈরি। কোনো সরকারি ডকুমেন্টের অপব্যবহার আইনত দণ্ডনীয়।”
+
+Home Page:
+
+Animated hero section with modern background effects
+
+Professional headline and subheadline
+
+CTA buttons
+
+Live-looking animated stats/counters
+
+“How It Works” section
+
+Featured tools preview
+
+Testimonials/reviews slider
+
+Why Choose RepDoc section
+
+Security & Privacy highlights
+
+Newsletter subscription UI
+
+Call-to-action banners
+
+Professional animated footer
+
+Features Page:
+Create stylish animated cards with hover effects and direct links for both active and upcoming tools together in the same grid layout.
+
+Active Features:
+
+NID Replica Generator → https://nid.repdoc.xyz/
+
+Birth Certificate Generator → https://birth.repdoc.xyz/
+
+Prottoyon Generator → https://prottoyon.repdoc.xyz/
+
+Upcoming Features (as futuristic placeholder cards mixed naturally with active tools):
+
+Passport Replica Generator
+
+Driving License Replica Generator
+
+Trade License Generator
+
+Academic Certificate Generator
+
+Utility Bill Generator
+
+Smart Card Preview Generator
+
+PDF Export Tools
+
+QR Verification System
+
+Upcoming cards should contain:
+
+“Coming Soon” badge
+
+Futuristic glowing border effects
+
+Disabled/preview button state
+
+Smooth hover animation
+
+Matching futuristic illustration/icon style
+
+About Page:
+
+RepDoc mission and vision
+
+Story/timeline section
+
+Dynamic animated layouts
+
+Team/brand section placeholders
+
+Matching unDraw illustrations
+
+FAQ Page:
+
+Modern accordion FAQ
+
+Smooth expand/collapse animations
+
+Search/filter functionality
+
+Categories for FAQs
+
+Pricing Page:
+
+Stylish SaaS pricing cards
+
+Free / Pro / Enterprise placeholder plans
+
+Feature comparison table
+
+Animated plan hover effects
+
+Changelog Page:
+
+Timeline-based update logs
+
+Release badges
+
+Feature update cards
+
+Future roadmap section
+
+Contact Page:
+
+Stylish contact form
+
+Support email display: support@repdoc.xyz
+
+Social/contact cards
+
+Illustration-based modern layout
+
+FAQ quick links
+
+404 Page:
+
+Creative animated 404 design
+
+Illustration with CTA button back to homepage
+
+Global Requirements:
+
+Sticky animated navbar
+
+Smooth scrolling
+
+Mobile-first responsive layout
+
+SEO-friendly structure
+
+Open Graph meta tags
+
+Reusable PHP includes/components
+
+Dynamic page transitions
+
+Animated buttons/cards
+
+Lazy-loaded illustrations/images
+
+Optimized performance
+
+Clean folder structure
+
+Premium SaaS landing page feel
+
+Custom cursor or subtle UI interaction effects
+
+Preloader animation
+
+Scroll progress indicator
+
+Back-to-top floating button
+
+Modern notification/toast UI
+
+Cookie/privacy notice popup
+
+Elegant footer with quick links and branding
+
+Footer must include:
+
+support@repdoc.xyz
+
+repdoc.xyz
+
+Quick navigation links
+
+Legal notice
+
+Copyright section
+
+Design inspiration should feel similar to modern startup/SaaS platforms with futuristic and professional branding quality.
