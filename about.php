@@ -4,7 +4,7 @@
 <div class="container">
 <span class="section-tag" data-i18n="about-tag">About</span>
 <h1 class="section-title" data-i18n="about-title">Built for Reliability</h1>
-<p class="section-desc" data-i18n="why-desc">We take document generation seriously so you don't have to</p>
+<p class="section-desc" data-i18n="about-desc">We take document generation seriously so you don't have to</p>
 </div>
 </section>
 

@@ -6,13 +6,13 @@ const translations = {
     'nav-why': 'Why RepDoc',
     'nav-faq': 'FAQ',
     'hero-badge': 'Trusted by hundreds of users',
-    'legal-notice': 'Disclaimer: This platform is for personal use only. Users assume full responsibility for any misuse. RepDoc and its owners disclaim all liability for legal consequences arising from unauthorized use.',
+    'legal-notice': 'DISCLAIMER: This platform is for personal use only. Users assume full responsibility for any misuse. REPDOC shall not be held liable for any legal consequences arising from unauthorized use.',
     'hero-title': 'Professional-Grade Document Replicas',
     'hero-subtitle': 'Create precise, high-quality replica documents \u2014 built for speed and accuracy.',
     'hero-cta-1': 'Get Started',
     'hero-cta-2': 'Learn More',
     'stat-docs': 'Documents Generated',
-    'stat-users': 'Active Users',
+    'stat-users': 'Registered Users',
     'stat-accuracy': 'Accuracy Rate',
     'features-tag': 'Our Tools',
     'features-title': 'Document Generation Tools',
@@ -25,6 +25,7 @@ const translations = {
     'tool-prottoyon-desc': 'Generate Prottoyon documents with ease and accuracy',
     'about-tag': 'About',
     'about-title': 'Built for Reliability',
+    'about-desc': 'We take document generation seriously so you don\u2019t have to',
     'about-text-1': 'RepDoc was created to make document generation simple, accurate, and accessible. Whether you need an NID replica, a birth certificate, or a Prottoyon document, our platform delivers consistent results every time.',
     'about-text-2': 'We focus on what matters: clean formatting, reliable output, and a straightforward experience. No unnecessary complexity \u2014 just the tools you need, when you need them.',
     'about-cta': 'See All Tools',
@@ -40,11 +41,11 @@ const translations = {
     'why-easy': 'Simple by Design',
     'why-easy-desc': 'No learning curve. Just fill in the fields and generate.',
     'future-1': 'Passport Generator',
-    'future-1-desc': 'Passport replica generation \u2014 coming soon',
+    'future-1-desc': 'Passport replica generation — coming soon',
     'future-2': 'Certificate Generator',
-    'future-2-desc': 'Educational certificate replicas \u2014 coming soon',
+    'future-2-desc': 'Educational certificate replicas — coming soon',
     'future-3': 'Smart ID Generator',
-    'future-3-desc': 'Corporate smart ID card generation \u2014 coming soon',
+    'future-3-desc': 'Corporate smart ID card generation — coming soon',
     'future-badge': 'Coming Soon',
     'faq-tag': 'FAQ',
     'faq-title': 'Frequently Asked Questions',
@@ -63,24 +64,24 @@ const translations = {
     'cta-desc': 'Try RepDoc now and see how simple document generation can be',
     'cta-btn': 'Get Started',
     'footer-desc': 'Document generation made simple. Fast, secure, and reliable.',
-    'footer-tools': 'Tools',
+    'footer-tools': 'Services',
     'footer-contact': 'Contact',
     'footer-rights': 'All rights reserved.'
   },
   bn: {
     'nav-home': 'হোম',
-    'nav-features': 'ফিচার্স',
+    'nav-features': 'সেবাসমূহ',
     'nav-about': 'সম্পর্কে',
     'nav-why': 'কেন RepDoc',
     'nav-faq': 'প্রশ্নোত্তর',
     'hero-badge': 'শত শত ব্যবহারকারীর আস্থা',
-    'legal-notice': 'দাবিত্যাগ: এই প্ল্যাটফর্ম শুধুমাত্র ব্যক্তিগত ব্যবহারের জন্য। যেকোনো অপব্যবহারের সম্পূর্ণ দায়িত্ব ব্যবহারকারীর। অপব্যবহারজনিত কোনো আইনি পরিণতির জন্য RepDoc বা এর মালিক দায়ী থাকবেন না।',
+    'legal-notice': 'দাবিত্যাগ: এই প্ল্যাটফর্ম শুধুমাত্র ব্যক্তিগত ব্যবহারের জন্য। যেকোনো অপব্যবহারের সম্পূর্ণ দায়িত্ব ব্যবহারকারীর। অপব্যবহারজনিত কোনো আইনি পরিণতির জন্য REPDOC দায়ী থাকবে না।',
     'hero-title': 'পেশাদার-গ্রেড ডকুমেন্ট রেপ্লিকা',
     'hero-subtitle': 'নির্ভুল, উচ্চমানের রেপ্লিকা ডকুমেন্ট তৈরি করুন — দ্রুততা ও নির্ভুলতার জন্য তৈরি।',
     'hero-cta-1': 'শুরু করুন',
     'hero-cta-2': 'আরও জানুন',
     'stat-docs': 'ডকুমেন্ট তৈরি হয়েছে',
-    'stat-users': 'সক্রিয় ব্যবহারকারী',
+    'stat-users': 'নিবন্ধিত ব্যবহারকারী',
     'stat-accuracy': 'নির্ভুলতার হার',
     'features-tag': 'আমাদের টুলস',
     'features-title': 'ডকুমেন্ট জেনারেশন টুলস',
@@ -95,6 +96,7 @@ const translations = {
     'about-title': 'নির্ভরযোগ্যতার জন্য তৈরি',
     'about-text-1': 'RepDoc তৈরি করা হয়েছে ডকুমেন্ট জেনারেশনকে সহজ, নির্ভুল ও সবার জন্য সহজলভ্য করার জন্য। আপনার এনআইডি রেপ্লিকা, জন্ম সনদ বা প্রত্যয়ন ডকুমেন্ট যাই প্রয়োজন হোক না কেন, আমাদের প্ল্যাটফর্ম প্রতিবার ধারাবাহিক ফলাফল দেয়।',
     'about-text-2': 'আমরা সেদিকে ফোকাস করি যা সত্যিই গুরুত্বপূর্ণ: পরিষ্কার ফরম্যাটিং, নির্ভরযোগ্য আউটপুট এবং একটি সরল অভিজ্ঞতা। অহেতুক জটিলতা নেই — যখন প্রয়োজন, তখনই আপনার প্রয়োজনীয় টুলস।',
+    'about-desc': 'ডকুমেন্ট জেনারেশনকে আমরা গুরুত্বের সাথে নেই, যাতে আপনি না নেন',
     'about-cta': 'সব টুলস দেখুন',
     'why-tag': 'কেন RepDoc',
     'why-title': 'আলাদা ভাবে তৈরি',
@@ -251,7 +253,7 @@ if (canvas && ctx) {
     draw() {
       ctx.beginPath();
       ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
-      ctx.fillStyle = `rgba(0, 200, 83, ${this.alpha})`;
+      ctx.fillStyle = `rgba(229, 57, 53, ${this.alpha * 1.3})`;
       ctx.fill();
     }
   }
@@ -269,7 +271,7 @@ if (canvas && ctx) {
           ctx.beginPath();
           ctx.moveTo(particles[i].x, particles[i].y);
           ctx.lineTo(particles[j].x, particles[j].y);
-          ctx.strokeStyle = `rgba(0, 200, 83, ${0.08 * (1 - dist / 150)})`;
+          ctx.strokeStyle = `rgba(229, 57, 53, ${0.1 * (1 - dist / 150)})`;
           ctx.lineWidth = 0.5;
           ctx.stroke();
         }

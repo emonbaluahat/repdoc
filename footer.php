@@ -4,6 +4,7 @@
 <div class="cta-content" data-aos="fade-up">
 <h2 data-i18n="cta-title">Ready to get started?</h2>
 <p data-i18n="cta-desc">Try RepDoc now and see how simple document generation can be</p>
+<div class="section-divider"></div>
 <a href="features.php" class="btn btn-primary btn-large" data-i18n="cta-btn">Get Started</a>
 </div>
 </div>

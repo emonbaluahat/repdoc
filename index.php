@@ -12,7 +12,7 @@
 </div>
 <div class="hero-stats">
 <div class="hero-stat"><span class="stat-number" data-count="50">0</span><span class="stat-label" data-i18n="stat-docs">Documents Generated</span></div>
-<div class="hero-stat"><span class="stat-number" data-count="10">0</span><span class="stat-label" data-i18n="stat-users">Active Users</span></div>
+<div class="hero-stat"><span class="stat-number" data-count="10">0</span><span class="stat-label" data-i18n="stat-users">Registered Users</span></div>
 <div class="hero-stat"><span class="stat-number" data-count="99">0</span><span class="stat-label" data-i18n="stat-accuracy">Accuracy Rate</span></div>
 </div>
 </div>
