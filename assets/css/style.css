@@ -112,16 +112,16 @@ img { max-width: 100%; display: block; }
   right: 0;
   height: var(--marquee-height);
   z-index: 1001;
-  background: rgba(255, 152, 0, 0.12);
-  border-bottom: 1px solid rgba(255, 152, 0, 0.2);
+  background: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
   overflow: hidden;
   display: flex;
   align-items: center;
 }
 
-[data-theme="light"] .marquee-bar {
-  background: #fff8e1;
-  border-bottom-color: #ffe082;
+[data-theme="dark"] .marquee-bar {
+  background: #ffffff;
+  border-bottom-color: #e0e0e0;
 }
 
 .marquee-track {
@@ -137,20 +137,25 @@ img { max-width: 100%; display: block; }
 .marquee-track span {
   display: inline-block;
   padding: 0 24px;
-  font-size: 0.75rem;
-  font-weight: 500;
-  color: #ffb300;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #d32f2f;
   letter-spacing: 0.5px;
   text-transform: uppercase;
 }
 
 .marquee-track span i {
   margin-right: 6px;
-  font-size: 0.7rem;
+  font-size: 0.72rem;
+  color: #d32f2f;
 }
 
-[data-theme="light"] .marquee-track span {
-  color: #e65100;
+[data-theme="dark"] .marquee-track span {
+  color: #d32f2f;
+}
+
+[data-theme="dark"] .marquee-track span i {
+  color: #d32f2f;
 }
 
 /* Navbar */
