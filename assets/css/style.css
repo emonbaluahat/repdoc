@@ -193,7 +193,7 @@ img { max-width: 100%; display: block; }
   color: var(--text-primary);
 }
 
-.logo-img { height: 90px; width: auto; flex-shrink: 0; border-radius: 12px; }
+.logo-img { height: 110px; width: auto; flex-shrink: 0; border-radius: 12px; }
 
 .nav-links { display: flex; gap: 32px; }
 
