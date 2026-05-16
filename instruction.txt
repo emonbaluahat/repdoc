@@ -1,0 +1,28 @@
+Create a modern, professional, and fully responsive single-page landing website for RepDoc (https://repdoc.xyz) using only pure PHP, HTML, CSS, and JavaScript. The website represents a replica document generator platform. Design must look premium, dynamic, clean, and futuristic with dark green + black color theme. Add smooth animations, glassmorphism effects, hover transitions, animated sections, and professional typography. Use an animated logo area instead of emojis. Include a dark/light theme toggle button with dark mode as default.
+
+The landing page must support both Bangla and English language content together naturally. Add a professional hero section with title, subtitle, CTA buttons, animated background particles or gradients, and feature cards.
+
+Current available tools/features:
+
+1. NID Replica Generator → https://nid.repdoc.xyz/
+2. Birth Certificate Generator → https://birth.repdoc.xyz/
+3. Prottoyon Generator → https://prottoyon.repdoc.xyz/
+
+Add these as stylish clickable cards/buttons with icons and hover animations. Also include a “More Features Coming Soon” section because more tools will be added later.
+
+Sections to include:
+
+* Hero Section
+* Features/Tools Section
+* About RepDoc
+* Why Choose Us
+* Future Features Section
+* Contact Section
+* Footer
+
+Footer should contain:
+Email: [support@repdoc.xyz](mailto:support@repdoc.xyz)
+Domain: repdoc.xyz
+Copyright text
+
+Add smooth scrolling, mobile responsiveness, sticky navbar, animated counters or highlights, FAQ section, and elegant CTA sections. The UI should feel like a modern SaaS landing page with professional branding and dynamic motion effects.
