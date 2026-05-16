@@ -13,7 +13,7 @@
 <div class="features-grid">
 <a href="https://nid.repdoc.xyz/" target="_blank" rel="noopener" class="feature-card" data-aos="fade-up">
 <div class="feature-icon">
-<i class="fas fa-id-card"></i>
+<lottie-player src="assets/animations/userPlus.json" background="transparent" speed="1" loop autoplay></lottie-player>
 </div>
 <h3 class="feature-title">NID Replica Generator</h3>
 <p class="feature-desc">High-quality NID replicas with accurate formatting and fast turnaround</p>
@@ -21,7 +21,7 @@
 </a>
 <a href="https://birth.repdoc.xyz/" target="_blank" rel="noopener" class="feature-card" data-aos="fade-up" data-aos-delay="100">
 <div class="feature-icon">
-<i class="fas fa-certificate"></i>
+<lottie-player src="assets/animations/checkmark.json" background="transparent" speed="1" loop autoplay></lottie-player>
 </div>
 <h3 class="feature-title">Birth Certificate Generator</h3>
 <p class="feature-desc">Professional birth certificate replicas generated in seconds</p>
@@ -29,7 +29,7 @@
 </a>
 <a href="https://prottoyon.repdoc.xyz/" target="_blank" rel="noopener" class="feature-card" data-aos="fade-up" data-aos-delay="200">
 <div class="feature-icon">
-<i class="fas fa-file-alt"></i>
+<lottie-player src="assets/animations/copy.json" background="transparent" speed="1" loop autoplay></lottie-player>
 </div>
 <h3 class="feature-title">Prottoyon Generator</h3>
 <p class="feature-desc">Generate Prottoyon documents with ease and accuracy</p>
@@ -37,7 +37,7 @@
 </a>
 <div class="feature-card coming-soon" data-aos="fade-up" data-aos-delay="300">
 <div class="feature-icon">
-<i class="fas fa-passport"></i>
+<lottie-player src="assets/animations/explore.json" background="transparent" speed="1" loop autoplay></lottie-player>
 </div>
 <h3 class="feature-title">Passport Generator</h3>
 <p class="feature-desc">Passport replica generation — coming soon</p>
@@ -45,7 +45,7 @@
 </div>
 <div class="feature-card coming-soon" data-aos="fade-up" data-aos-delay="400">
 <div class="feature-icon">
-<i class="fas fa-graduation-cap"></i>
+<lottie-player src="assets/animations/star.json" background="transparent" speed="1" loop autoplay></lottie-player>
 </div>
 <h3 class="feature-title">Certificate Generator</h3>
 <p class="feature-desc">Educational certificate replicas — coming soon</p>
@@ -53,7 +53,7 @@
 </div>
 <div class="feature-card coming-soon" data-aos="fade-up" data-aos-delay="500">
 <div class="feature-icon">
-<i class="fas fa-address-card"></i>
+<lottie-player src="assets/animations/folder.json" background="transparent" speed="1" loop autoplay></lottie-player>
 </div>
 <h3 class="feature-title">Smart ID Generator</h3>
 <p class="feature-desc">Corporate smart ID card generation — coming soon</p>

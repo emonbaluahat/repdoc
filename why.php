@@ -12,25 +12,25 @@
 <div class="container">
 <div class="why-grid">
 <div class="why-card" data-aos="fade-up">
-<div class="why-icon"><i class="fas fa-bolt"></i></div>
+<div class="why-icon"><lottie-player src="assets/animations/activity.json" background="transparent" speed="1" loop autoplay></lottie-player></div>
 <h3>Lightning Fast</h3>
 <p>Documents generated in seconds, not minutes</p>
 <div class="why-stat"><span class="counter" data-target="99">0</span>%</div>
 </div>
 <div class="why-card" data-aos="fade-up" data-aos-delay="100">
-<div class="why-icon"><i class="fas fa-check-double"></i></div>
+<div class="why-icon"><lottie-player src="assets/animations/checkmark.json" background="transparent" speed="1" loop autoplay></lottie-player></div>
 <h3>Pixel Perfect</h3>
 <p>Templates crafted to match original layouts with precision</p>
 <div class="why-stat"><span class="counter" data-target="100">0</span>%</div>
 </div>
 <div class="why-card" data-aos="fade-up" data-aos-delay="200">
-<div class="why-icon"><i class="fas fa-shield-halved"></i></div>
+<div class="why-icon"><lottie-player src="assets/animations/lock.json" background="transparent" speed="1" loop autoplay></lottie-player></div>
 <h3>Private by Default</h3>
 <p>Your data stays yours. Encrypted in transit, deleted after use.</p>
 <div class="why-stat"><span class="counter" data-target="100">0</span>%</div>
 </div>
 <div class="why-card" data-aos="fade-up" data-aos-delay="300">
-<div class="why-icon"><i class="fas fa-face-smile"></i></div>
+<div class="why-icon"><lottie-player src="assets/animations/star.json" background="transparent" speed="1" loop autoplay></lottie-player></div>
 <h3>Simple by Design</h3>
 <p>No learning curve. Just fill in the fields and generate.</p>
 <div class="why-stat"><span class="counter" data-target="50">0</span>K+</div>
