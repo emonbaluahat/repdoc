@@ -13,7 +13,7 @@
 <div class="about-wrapper">
 <div class="about-image" data-aos="fade-right">
 <div class="about-image-inner">
-<i class="fas fa-file-shield"></i>
+<img src="assets/images/about_logo.gif" alt="About RepDoc" style="width:100%;height:100%;object-fit:cover;position:relative;z-index:1;border-radius:14px;">
 </div>
 </div>
 <div class="about-content" data-aos="fade-left">
