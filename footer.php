@@ -14,8 +14,7 @@
 <div class="footer-content">
 <div class="footer-brand">
 <div class="footer-logo">
-<img src="assets/images/repdoc_logo.png" alt="RepDoc" class="logo-img">
-<span>RepDoc</span>
+<img src="assets/images/repdoc_logo.png" alt="RepDoc" class="logo-img footer-logo-img">
 </div>
 <p data-i18n="footer-desc">Document generation made simple. Fast, secure, and reliable.</p>
 </div>

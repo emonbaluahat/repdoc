@@ -24,7 +24,6 @@
 <div class="nav-container">
 <a href="index.php" class="nav-logo">
 <img src="assets/images/repdoc_logo.png" alt="RepDoc" class="logo-img">
-<span class="logo-text">RepDoc</span>
 </a>
 <ul class="nav-links" id="navLinks">
 <li><a href="index.php" class="nav-link<?= ($current_page ?? '') === 'index' ? ' active' : '' ?>" data-i18n="nav-home">Home</a></li>
