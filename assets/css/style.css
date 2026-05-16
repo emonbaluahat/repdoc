@@ -193,7 +193,7 @@ img { max-width: 100%; display: block; }
   color: var(--text-primary);
 }
 
-.logo-svg { flex-shrink: 0; }
+.logo-img { height: 36px; width: auto; flex-shrink: 0; border-radius: 6px; }
 
 .logo-text {
   background: linear-gradient(135deg, var(--text-primary) 0%, var(--accent) 100%);

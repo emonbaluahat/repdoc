@@ -14,12 +14,7 @@
 <div class="footer-content">
 <div class="footer-brand">
 <div class="footer-logo">
-<svg viewBox="0 0 40 40" width="28" height="28">
-<rect x="4" y="8" width="32" height="24" rx="4" fill="none" stroke="#00c853" stroke-width="2.5"/>
-<line x1="12" y1="16" x2="28" y2="16" stroke="#00c853" stroke-width="2" stroke-linecap="round"/>
-<line x1="12" y1="22" x2="24" y2="22" stroke="#00c853" stroke-width="2" stroke-linecap="round"/>
-<line x1="12" y1="28" x2="20" y2="28" stroke="#00c853" stroke-width="2" stroke-linecap="round"/>
-</svg>
+<img src="assets/images/repdoc_logo.png" alt="RepDoc" class="logo-img">
 <span>RepDoc</span>
 </div>
 <p data-i18n="footer-desc">Document generation made simple. Fast, secure, and reliable.</p>
