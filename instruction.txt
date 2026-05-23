@@ -1,0 +1,209 @@
+Remove All old files and commit first
+
+Create a modern, premium, and fully mobile and desktop responsive multi-page website for RepDoc (https://repdoc.xyz) using pure PHP, HTML, CSS, and JavaScript only. The platform is a replica document generator service. The website language must be English only. Use a professional dark green + black color scheme with futuristic SaaS-style UI, glassmorphism, gradients, smooth animations, hover transitions, animated backgrounds, dynamic scroll reveals, and premium typography.
+
+Use matching illustrations from https://undraw.co on every page and section. Each illustration must match the content dynamically and visually with smooth animated entrance effects.
+
+Do NOT add theme toggle or emoji logos. Instead, create a professional animated logo/brand section with modern motion effects.
+
+Website must be fully multi-page with:
+
+Home Page
+
+Features Page
+
+About Page
+
+FAQ Page
+
+Pricing Page
+
+Changelog Page
+
+Contact Page
+
+404 Error Page
+
+Add a scrolling marquee/top notification bar in Bangla containing a legal notice:
+“এই ওয়েবসাইট শুধুমাত্র ডেমো, ডিজাইন ও শিক্ষামূলক উদ্দেশ্যে তৈরি। কোনো সরকারি ডকুমেন্টের অপব্যবহার আইনত দণ্ডনীয়।”
+
+Home Page:
+
+Animated hero section with modern background effects
+
+Professional headline and subheadline
+
+CTA buttons
+
+Live-looking animated stats/counters
+
+“How It Works” section
+
+Featured tools preview
+
+Testimonials/reviews slider
+
+Why Choose RepDoc section
+
+Security & Privacy highlights
+
+Newsletter subscription UI
+
+Call-to-action banners
+
+Professional animated footer
+
+Features Page:
+Create stylish animated cards with hover effects and direct links for both active and upcoming tools together in the same grid layout.
+
+Active Features:
+
+NID Replica Generator → https://nid.repdoc.xyz/
+
+Birth Certificate Generator → https://birth.repdoc.xyz/
+
+Prottoyon Generator → https://prottoyon.repdoc.xyz/
+
+Upcoming Features (as futuristic placeholder cards mixed naturally with active tools):
+
+Passport Replica Generator
+
+Driving License Replica Generator
+
+Trade License Generator
+
+Academic Certificate Generator
+
+Utility Bill Generator
+
+Smart Card Preview Generator
+
+PDF Export Tools
+
+QR Verification System
+
+Upcoming cards should contain:
+
+“Coming Soon” badge
+
+Futuristic glowing border effects
+
+Disabled/preview button state
+
+Smooth hover animation
+
+Matching futuristic illustration/icon style
+
+About Page:
+
+RepDoc mission and vision
+
+Story/timeline section
+
+Dynamic animated layouts
+
+Team/brand section placeholders
+
+Matching unDraw illustrations
+
+FAQ Page:
+
+Modern accordion FAQ
+
+Smooth expand/collapse animations
+
+Search/filter functionality
+
+Categories for FAQs
+
+Pricing Page:
+
+Stylish SaaS pricing cards
+
+Free / Pro / Enterprise placeholder plans
+
+Feature comparison table
+
+Animated plan hover effects
+
+Changelog Page:
+
+Timeline-based update logs
+
+Release badges
+
+Feature update cards
+
+Future roadmap section
+
+Contact Page:
+
+Stylish contact form
+
+Support email display: support@repdoc.xyz
+
+Social/contact cards
+
+Illustration-based modern layout
+
+FAQ quick links
+
+404 Page:
+
+Creative animated 404 design
+
+Illustration with CTA button back to homepage
+
+Global Requirements:
+
+Sticky animated navbar
+
+Smooth scrolling
+
+Mobile-first responsive layout
+
+SEO-friendly structure
+
+Open Graph meta tags
+
+Reusable PHP includes/components
+
+Dynamic page transitions
+
+Animated buttons/cards
+
+Lazy-loaded illustrations/images
+
+Optimized performance
+
+Clean folder structure
+
+Premium SaaS landing page feel
+
+Custom cursor or subtle UI interaction effects
+
+Preloader animation
+
+Scroll progress indicator
+
+Back-to-top floating button
+
+Modern notification/toast UI
+
+Cookie/privacy notice popup
+
+Elegant footer with quick links and branding
+
+Footer must include:
+
+support@repdoc.xyz
+
+repdoc.xyz
+
+Quick navigation links
+
+Legal notice
+
+Copyright section
+
+Design inspiration should feel similar to modern startup/SaaS platforms with futuristic and professional branding quality.
