@@ -7,8 +7,8 @@
 <svg viewBox="0 0 160 32" class="logo-svg" width="130" height="26">
 <defs>
     <linearGradient id="footerLogoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" style="stop-color:#A30B11"/>
-<stop offset="100%" style="stop-color:#E65A28"/>
+<stop offset="0%" style="stop-color:#00d47e"/>
+<stop offset="100%" style="stop-color:#00e88a"/>
 </linearGradient>
 </defs>
 <text x="0" y="24" font-family="Inter, sans-serif" font-weight="800" font-size="22" fill="url(#footerLogoGrad)">REPDOC</text>

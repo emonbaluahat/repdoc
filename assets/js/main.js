@@ -1,5 +1,22 @@
 document.addEventListener('DOMContentLoaded', () => {
 
+// Theme Toggle
+const htmlEl = document.documentElement;
+const themeBtn = document.getElementById('themeBtn');
+const themeIcon = document.getElementById('themeIcon');
+function applyTheme(t) {
+htmlEl.setAttribute('data-theme', t);
+if (themeIcon) themeIcon.className = t === 'dark' ? 'fas fa-sun' : 'fas fa-moon';
+localStorage.setItem('rd-theme', t);
+}
+if (themeBtn) {
+themeBtn.addEventListener('click', () => {
+applyTheme(htmlEl.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+});
+}
+const savedTheme = localStorage.getItem('rd-theme');
+if (savedTheme) applyTheme(savedTheme);
+
 // Preloader
 const preloader = document.getElementById('preloader');
 window.addEventListener('load', () => {

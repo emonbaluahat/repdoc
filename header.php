@@ -4,7 +4,7 @@ $page_desc = $page_desc ?? 'Create precise, high-quality replica documents with 
 $current_page = $current_page ?? '';
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -32,8 +32,8 @@ $current_page = $current_page ?? '';
 <svg viewBox="0 0 200 40" class="logo-svg">
 <defs>
     <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" style="stop-color:#A30B11"/>
-<stop offset="100%" style="stop-color:#E65A28"/>
+<stop offset="0%" style="stop-color:#00d47e"/>
+<stop offset="100%" style="stop-color:#00e88a"/>
 </linearGradient>
 </defs>
 <text x="0" y="30" font-family="Inter, sans-serif" font-weight="800" font-size="28" fill="url(#logoGrad)">REPDOC</text>
@@ -58,8 +58,8 @@ $current_page = $current_page ?? '';
 <svg viewBox="0 0 160 32" class="logo-svg" width="140" height="28">
 <defs>
     <linearGradient id="navLogoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" style="stop-color:#A30B11"/>
-<stop offset="100%" style="stop-color:#E65A28"/>
+<stop offset="0%" style="stop-color:#00d47e"/>
+<stop offset="100%" style="stop-color:#00e88a"/>
 </linearGradient>
 </defs>
 <text x="0" y="24" font-family="Inter, sans-serif" font-weight="800" font-size="22" fill="url(#navLogoGrad)">REPDOC</text>
@@ -75,6 +75,9 @@ $current_page = $current_page ?? '';
 <li><a href="contact.php" class="nav-link<?= $current_page === 'contact' ? ' active' : '' ?>">Contact</a></li>
 </ul>
 <div class="nav-actions">
+<button class="theme-btn" id="themeBtn" title="Toggle theme">
+<i class="fas fa-moon" id="themeIcon"></i>
+</button>
 <a href="features.php" class="btn btn-primary btn-sm nav-cta">Get Started</a>
 <button class="hamburger" id="hamburger" aria-label="Menu">
 <span></span><span></span><span></span>
